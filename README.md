@@ -92,8 +92,8 @@ mysqli_set_charset($koneksi, 'utf8mb4');
 ---
 
 ### 🔐 Login Default 
-Username : admin
-Password : admin
+1. Username : admin
+2. Password : admin
 
 
 
