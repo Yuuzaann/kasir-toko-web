@@ -1,8 +1,0 @@
-/* Minimalis custom styling */
-/* Gunakan komentar untuk menandai area penting: */
-/* - Variabel: bukan literal JS/PHP variabel; di sini maksudnya elemen tampilan yang sering diubah */
-body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #fff; color:#222; }
-.card { border-radius: 6px; }
-.navbar-brand { font-weight:600; }
-.table-sm th, .table-sm td { vertical-align: middle; }
-
